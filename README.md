@@ -1,1 +1,2 @@
 # Kytina_EPR_spectra_classification
+This project solves the problem of electron paramagnetic resonance (EPR) spectra classification. A synthetic dataset was used to train the models. Machine learning models (SVM, Random Forest, LGBM, Catboost, XGBoost) and neural network architectures (ResNet, EfficientNet, MobileNet) were tested for one-dimensional and two-dimensional data to solve the classification problem. In this repository, you will find the code for creating the dataset, as well as the code for experimenting with machine learning models.
