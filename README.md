@@ -29,5 +29,5 @@ Mobilenetv2
 ![Сравнительная таблица, демонстрирующая метрики качества для всех моделей](https://drive.google.com/uc?export=view&id=1mW0TzSqSI6qd7aictGw1hNvddl82Fl24)
 
 # Проверка кода
-Для получения основных результатов проекта Вы можете выполнить блокнот Model_for_reference_GitHub.ipynb (например, в Google Colab или Яндекс Датасфере) из папки notebooks.
+Для получения основных результатов проекта Вы можете выполнить блокнот EPR_spectra_classification.ipynb (например, в Google Colab или Яндекс Датасфере) из папки notebooks.
 Данный проект был выполнен на JupyterLab в сервисе Яндекс Датасфера.
