@@ -26,7 +26,7 @@ Mobilenetv2
 
 # Сравнительная таблица, демонстрирующая метрики качества для всех моделей
 
-![Сравнительная таблица, демонстрирующая метрики качества для всех моделей]([https://drive.google.com/uc?export=view&id=19hHz-rltYWDMqBFca5dTqxlRLQOCCar2])
+![Сравнительная таблица, демонстрирующая метрики качества для всех моделей](https://drive.google.com/uc?export=view&id=19hHz-rltYWDMqBFca5dTqxlRLQOCCar2)
 
 # Проверка кода
 Для получения основных результатов проекта Вы можете выполнить блокнот EPR_spectra_classification.ipynb (например, в Google Colab или Яндекс Датасфере) из папки notebooks.
