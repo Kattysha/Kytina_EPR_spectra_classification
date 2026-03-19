@@ -29,7 +29,7 @@ Mobilenetv2
 ![Сравнительная таблица, демонстрирующая метрики качества для всех моделей](https://drive.google.com/uc?export=view&id=19hHz-rltYWDMqBFca5dTqxlRLQOCCar2)
 
 # Проверка кода
-Для получения указанных в статье результатов проекта Вы можете выполнить блокнот epr_spectra_classification_kytina_ev-publ.ipynb (или epr_spectra_classification_kytina_ev-publ.py), например, в Google Colab или Яндекс Датасфере) из папки notebooks. В указанных блокотах имеется код для загрузки датасетов.
-Для того чтобы проверить качество лучших обученных моделей на тестовых данных Вы можете запустить блокнот Classification_Report_of_best_models.ipynb (или Classification_Report_of_best_models.py) из папки demonstration of the best results.
+Для получения всех описанных в статье результатов проекта Вы можете выполнить блокнот epr_spectra_classification_kytina_ev-publ.ipynb (или epr_spectra_classification_kytina_ev-publ.py), например, в Google Colab или Яндекс Датасфере) из папки notebooks. В указанных блокотах имеется код для загрузки датасетов.
+Демонстрация полученных результатов для двух лучших моделей на тестовом датасете приведена в блокноте Classification_Report_of_best_models.ipynb в папке demonstration of the best results.
 Также датасеты можно скачать из папки data.
 Данный проект был выполнен на JupyterLab в сервисе Яндекс Датасфера.
